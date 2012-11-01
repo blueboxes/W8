@@ -1,4 +1,4 @@
 W8
 ==
 
-SampleProject
+Sample Project for first windwows 8 app
