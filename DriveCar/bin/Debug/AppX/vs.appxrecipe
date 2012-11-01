@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP</Machine>
+    <WindowsUser>J</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>3614711E26C361477C273DD8035C44E04EA155E74C4586AEFBD023838455D564</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>406bf601-f44f-4980-a65c-6b27255043f0_1.0.0.0_neutral__t9h1hnwye8qmm</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>406bf601-f44f-4980-a65c-6b27255043f0_t9h1hnwye8qmm!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>406bf601-f44f-4980-a65c-6b27255043f0</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=J</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\J\Documents\Visual Studio 2012\Projects\DriveCar\DriveCar\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-10-31T16:57:12.046</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\J\Documents\Visual Studio 2012\Projects\DriveCar\DriveCar\bin\Debug\DriveCar.exe">
+      <PackagePath>DriveCar.exe</PackagePath>
+      <Modified>2012-10-31T20:03:30.517</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\J\Documents\Visual Studio 2012\Projects\DriveCar\DriveCar\bin\Debug\DriveCar.pdb">
+      <PackagePath>DriveCar.pdb</PackagePath>
+      <Modified>2012-10-31T20:03:30.488</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\J\Documents\Visual Studio 2012\Projects\DriveCar\DriveCar\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\J\Documents\Visual Studio 2012\Projects\DriveCar\DriveCar\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\J\Documents\Visual Studio 2012\Projects\DriveCar\DriveCar\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\J\Documents\Visual Studio 2012\Projects\DriveCar\DriveCar\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T19:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\J\Documents\Visual Studio 2012\Projects\DriveCar\DriveCar\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-10-30T20:06:42.908</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\J\Documents\Visual Studio 2012\Projects\DriveCar\DriveCar\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T15:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\J\Documents\Visual Studio 2012\Projects\DriveCar\DriveCar\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-10-31T17:00:22.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\J\Documents\Visual Studio 2012\Projects\DriveCar\DriveCar\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-10-31T16:57:11.896</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
